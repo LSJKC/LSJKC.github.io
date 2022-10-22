@@ -3,11 +3,11 @@
   <title>老司机`Blog</title>
   
   <subtitle>“别急”是一种态度</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://lsjkc.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-10-22T04:37:16.891Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://lsjkc.github.io/"/>
+  <updated>2022-10-22T13:27:05.883Z</updated>
+  <id>https://lsjkc.github.io/</id>
   
   <author>
     <name>老司机</name>
@@ -17,9 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>阳光不燥，微风正好</title>
+    <link href="https://lsjkc.github.io/posts/0.html"/>
+    <id>https://lsjkc.github.io/posts/0.html</id>
+    <published>2022-10-22T13:23:26.461Z</published>
+    <updated>2022-10-22T13:27:05.883Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>一生的时间很短<br> 短到不过是两颗心之间的距离<br> 一生的时间也很长<br> 不如我们试着走走看</p></blockquote> <div class="tip "><p>这是外挂标签演示</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;一生的时间很短&lt;br&gt; 短到不过是两颗心之间的距离&lt;br&gt; 一生的时间也很长&lt;br&gt; 不如我们试着走走看&lt;/p&gt;
+&lt;/blockquote&gt;
+ &lt;div class=&quot;tip &quot;&gt;&lt;p&gt;这是外挂标签演示&lt;/p&gt;
+&lt;/div&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://lsjkc.github.io/posts/4a17b156.html"/>
+    <id>https://lsjkc.github.io/posts/4a17b156.html</id>
     <published>2022-10-21T17:42:17.634Z</published>
     <updated>2022-10-22T04:37:16.891Z</updated>
     
