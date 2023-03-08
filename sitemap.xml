@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.lsjkc.yunzs.online/music/index.html</loc>
+    
+    <lastmod>2023-03-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.lsjkc.yunzs.online/about/index.html</loc>
     
     <lastmod>2023-03-01</lastmod>
@@ -49,7 +58,7 @@
 
   <url>
     <loc>https://www.lsjkc.yunzs.online/</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-03-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,7 +66,7 @@
   
   <url>
     <loc>https://www.lsjkc.yunzs.online/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
